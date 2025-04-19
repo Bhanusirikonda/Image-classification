@@ -1,0 +1,1 @@
+A web-based machine learning application that classifies Indian sports personalities (like Virat Kohli, Rohit Sharma, Sachin Tendulkar, Hardik Pandya, and Jasprit Bumrah) from uploaded images using face detection and image classification techniques.
